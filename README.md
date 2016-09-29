@@ -1,3 +1,3 @@
 # hello-world
 My first programming anything.....
-Learning to program from scratch on 9-29-2016, age 28. Wish me luck!
+
